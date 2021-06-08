@@ -26,3 +26,11 @@ A series of benchmark functions were selected due to their inherent difficulty t
 
     <a href="https://www.codecogs.com/eqnedit.php?latex=f(\textbf{x})=&space;\sum_{i=1}^n&space;x_i^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(\textbf{x})=&space;\sum_{i=1}^n&space;x_i^2" title="f(\textbf{x})= \sum_{i=1}^n x_i^2" /></a>
 
+More detalied description of the function is found in the following table
+![image](https://user-images.githubusercontent.com/70922559/121162240-6044fd80-c813-11eb-9a6a-6c84b6a97e1e.png)
+
+
+
+## Results
+![image](https://user-images.githubusercontent.com/70922559/121160381-a8632080-c811-11eb-8134-777175c56266.png)
+
