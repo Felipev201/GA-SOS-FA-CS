@@ -28,6 +28,7 @@ A series of benchmark functions were selected due to their inherent difficulty t
 
 More detalied description of the function is found in the following table
 ![image](https://user-images.githubusercontent.com/70922559/121162240-6044fd80-c813-11eb-9a6a-6c84b6a97e1e.png)
+
 The second column describes the boundaries of the search space that was used for each function. The third column is the number of dimensions. The fourth column gives a description of the function, D: differentiable; ND: non-differentiable; NS: non-separable; U: unimodal; M: multimodal. **f(x_{min})** is the minimum of the function and **x_{min}** is where the minimum can be found in the domain of the function, the **|x|** symbol means that the value of **x** can be positive or negative.
 
 
