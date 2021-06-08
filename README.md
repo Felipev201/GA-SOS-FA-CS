@@ -1,5 +1,5 @@
 # Metaheuristic algorithms comparison
-A series of benchmark functions were selected due to their inherent difficulty to find their absolute minimum or maximum numerically because they are either: non-separable, non-differentiable, have a high number of dimensions or have multiple local minima (multimodal). These functions are usually used to test the performance of optimization algorithms \cite{yang2020}. The selected benchmark functions are:
+A series of benchmark functions were selected due to their inherent difficulty to find their absolute minimum or maximum numerically because they are either: non-separable, non-differentiable, have a high number of dimensions or have multiple local minima (multimodal). These functions are usually used to test the performance of optimization algorithms ([Yang](https://www.sciencedirect.com/science/article/pii/B9780128197141000178)). The selected benchmark functions are:
 
 * Schaffer N1
 
@@ -26,4 +26,3 @@ A series of benchmark functions were selected due to their inherent difficulty t
 
     <a href="https://www.codecogs.com/eqnedit.php?latex=f(\textbf{x})=&space;\sum_{i=1}^n&space;x_i^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(\textbf{x})=&space;\sum_{i=1}^n&space;x_i^2" title="f(\textbf{x})= \sum_{i=1}^n x_i^2" /></a>
 
-A more complete description of these function can be found in the following table.
