@@ -39,6 +39,6 @@ In bold are the best results
 
 ## Contributors
 * [Felipe Villaseñor](https://github.com/Felipev201)
-* Daniel Torres
+* [Daniel Torres](https://github.com/DanielTorres98)
 
 
